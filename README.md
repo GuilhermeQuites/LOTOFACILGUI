@@ -1,6 +1,6 @@
 # Lotofácil GUI
 
-Este é um projeto Java que apresenta uma interface gráfica para um jogo de apostas chamado "Lotofácil". O jogo permite que o jogador faça três tipos diferentes de apostas e ganhe ou perca dinheiro com base em suas escolhas. As opções de apostas incluem:
+Este é um projeto Java que apresenta uma interface gráfica para um jogo de apostas chamado "Lotofácil". O jogo permite que o jogador faça três tipos diferentes de apostas e ganhe dinheiro com base em suas escolhas. As opções de apostas incluem:
 
 1. **Apostar de 0 a 100**: O jogador deve adivinhar um número aleatório entre 0 e 100. Se acertar, ganha R$ 1.000,00.
 
